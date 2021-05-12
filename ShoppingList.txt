@@ -5,3 +5,4 @@ Banana
 Carrots
 Mango
 Cereal
+Total Price = 2000
